@@ -1,0 +1,8 @@
+{
+  "name": "slack-triage",
+  "version": "0.1.0",
+  "description": "Scans Slack for unread messages, DMs, and threads — triages by priority and offers reply drafting. Mirrors the email-triage pattern for Slack workspaces.",
+  "author": {
+    "name": "Eric Porres"
+  }
+}
