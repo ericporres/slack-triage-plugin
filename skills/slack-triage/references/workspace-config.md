@@ -5,24 +5,24 @@
 
 ## Workspace
 
-- **Workspace name:** Logitech (fill in or update)
-- **Eric's Slack display name:** (fill in)
-- **Eric's Slack user ID:** (fill in — find via profile → More → Copy member ID)
+- **Workspace name:** Your Company (fill in)
+- **Your Slack display name:** (fill in)
+- **Your Slack user ID:** (fill in — find via profile → More → Copy member ID)
 
 ## Channel Priority Tiers
 
 ### Priority Channels (Tier 1 when action-oriented)
 
-Channels where messages are likely to need Eric's attention or reply.
+Channels where messages are likely to need your attention or reply.
 
 | Channel | Why it's priority |
 |---------|------------------|
-| #ai-team | Eric's direct team |
+| #your-team | Your direct team |
 | <!-- add more --> | |
 
 ### Watch Channels (Tier 2 — review)
 
-Channels Eric wants to stay aware of but doesn't always need to act on.
+Channels you want to stay aware of but doesn't always need to act on.
 
 | Channel | Why it's watched |
 |---------|-----------------|
@@ -45,7 +45,7 @@ People whose DMs or @mentions always get Tier 1 treatment (beyond the family-ass
 
 | Name | Role | Slack Handle |
 |------|------|-------------|
-| <!-- e.g., Eric's manager --> | | |
+| <!-- e.g., your manager --> | | |
 | <!-- e.g., direct report --> | | |
 
 ## Bot Filters
